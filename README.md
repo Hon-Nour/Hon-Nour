@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 <h1> Hi, I'm Honour Daniel <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcThqbm9kazZhODR0Y216bTkyenh2cmpmODRzamkzanBkaThuYWlsNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3w7D6cDBfjY5bDROsu/giphy.gif" width="50"></h2>
 
 ### Who am I
-<img align='right' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWljZ254cXhiZjZyNjJiaW9qamh3MzR3ZzdqcjBmdzNpMXo4Z3h3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/68BuPwhY3moYZWdfJy/giphy.gif" width="230"> <br>
+<img align='right' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWljZ254cXhiZjZyNjJiaW9qamh3MzR3ZzdqcjBmdzNpMXo4Z3h3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/68BuPwhY3moYZWdfJy/giphy.gif" width="230"> <br> 
+<!-- <img align='right' src="./Image2.png" width="230"> <br> -->
 I'm a Data Analyst who focuses on turning complicated data into clear persuasive stories. My work aims to make data easy to grasp and use helping you make smart choices without hassle. 
 
 ### My Approach
