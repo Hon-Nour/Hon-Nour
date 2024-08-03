@@ -15,16 +15,19 @@ Here are some ideas to get you started:
 
 <h1> Hi, I'm Honour Daniel <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcThqbm9kazZhODR0Y216bTkyenh2cmpmODRzamkzanBkaThuYWlsNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3w7D6cDBfjY5bDROsu/giphy.gif" width="50"></h2>
 
+<img align='right' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWljZ254cXhiZjZyNjJiaW9qamh3MzR3ZzdqcjBmdzNpMXo4Z3h3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/68BuPwhY3moYZWdfJy/giphy.gif" width="230"> <br>
+
 ### Who am I
-<img align='right' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWljZ254cXhiZjZyNjJiaW9qamh3MzR3ZzdqcjBmdzNpMXo4Z3h3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/68BuPwhY3moYZWdfJy/giphy.gif" width="230"> <br> 
+ 
 <!-- <img align='right' src="./Image2.png" width="230"> <br> -->
 I'm a Data Analyst who focuses on turning complicated data into clear persuasive stories. My work aims to make data easy to grasp and use helping you make smart choices without hassle. 
 
 ### My Approach
+
 I believe data should tell a story. I try to simplify tricky stuff and show data in a way that's not just easy to understand, but also useful. Whether I'm making clear charts detailed reports, or interactive tools, I always ensure the story behind the data is straightforward and helpful.
 
 <div> 
-
+  
 ### Languages and Tools <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDNodDNnZHllM3I0b2IwbnV2MDFnMGFuNzhveGxvdWYyazk0aGs3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ca2nq3lROV0XX74R7m/giphy.gif" width="50"></div>
 
 <img align="left" alt="Python" width="26px"  src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" style="padding-right:10px;" />
