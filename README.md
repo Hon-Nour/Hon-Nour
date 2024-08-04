@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1> Hi, I'm Honour Daniel <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcThqbm9kazZhODR0Y216bTkyenh2cmpmODRzamkzanBkaThuYWlsNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3w7D6cDBfjY5bDROsu/giphy.gif" width="50"></h2>
+<h3> Hi, I'm Honour Daniel <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcThqbm9kazZhODR0Y216bTkyenh2cmpmODRzamkzanBkaThuYWlsNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3w7D6cDBfjY5bDROsu/giphy.gif" width="50"></h3>
 
 <img align='right' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWljZ254cXhiZjZyNjJiaW9qamh3MzR3ZzdqcjBmdzNpMXo4Z3h3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/68BuPwhY3moYZWdfJy/giphy.gif" width="230"> <br>
 
@@ -47,7 +47,7 @@ I believe data should tell a story. I try to simplify tricky stuff and show data
 <img align="left" alt="Selenium" width="26px"  src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" style="padding-right:10px;"/><br>
 
 
-### Connect with me 
+### Reach me on
 
 <a href="https://www.linkedin.com/in/honourdaniel/">
   <img align="left" alt="MongoDB" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />
