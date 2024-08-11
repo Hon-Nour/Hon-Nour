@@ -25,10 +25,11 @@ I'm a Data Analyst who focuses on turning complicated data into clear persuasive
 ### My Approach
 
 I believe data should tell a story. I try to simplify tricky stuff and show data in a way that's not just easy to understand, but also useful. Whether I'm making clear charts detailed reports, or interactive tools, I always ensure the story behind the data is straightforward and helpful.
-
-<div> 
+ 
   
-### Languages and Tools <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDNodDNnZHllM3I0b2IwbnV2MDFnMGFuNzhveGxvdWYyazk0aGs3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ca2nq3lROV0XX74R7m/giphy.gif" width="50"></div>
+### Languages and Tools 
+<!-- <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDNodDNnZHllM3I0b2IwbnV2MDFnMGFuNzhveGxvdWYyazk0aGs3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ca2nq3lROV0XX74R7m/giphy.gif" width="50"></div>
+-->
 
 <img align="left" alt="Python" width="26px"  src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Microsoft Excel" width="26px"  src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" style="padding-right:10px;" />
