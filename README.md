@@ -51,11 +51,12 @@ I believe data should tell a story. I try to simplify tricky stuff and show data
 ### Reach me on
 
 <a href="https://www.linkedin.com/in/honourdaniel/">
-  <img align="left" alt="MongoDB" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />
+  <img align="left" alt="LinkedIn" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />
 </a>
 <a href="https://x.com/_DataMage">
-  <img align="left" alt="MongoDB" width="26px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" style="padding-right:10px;" />
+  <img align="left" alt="X" width="26px" src="https://img.icons8.com/?size=100&id=A4DsujzAX4rw&format=png&color=FFFFFF" style="padding-right:10px;" />
 </a>
 <a href="mailto:honour.theanalyst@gmail.com">
-  <img align="left" alt="MongoDB" width="26px" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" style="padding-right:10px;" />
+  <img align="left" alt="Gmail" width="26px" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" style="padding-right:10px;" />
 </a>
+
